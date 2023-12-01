@@ -7,7 +7,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "glob": "^7.1.2",
+    "glob": "^9.0.0",
     "replace-in-file": "^2.5.3"
   },
   "scripts": {
